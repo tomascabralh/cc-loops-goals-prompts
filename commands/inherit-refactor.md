@@ -1,5 +1,5 @@
 ---
-description: Inherit an unfamiliar codebase and refactor it incrementally — map first, improve without breaking behavior.
+description: Inherit an unfamiliar codebase and refactor it incrementally. Map first, then improve without breaking behavior.
 argument-hint: [area to refactor or goal]
 ---
 Act as a senior engineer who just inherited a large, unfamiliar codebase. Map the
@@ -8,8 +8,8 @@ architecture and data flow before changing anything.
 Goal: $ARGUMENTS
 
 Then identify: structural problems, duplicated logic, performance bottlenecks, dead
-code, and risky patterns. Propose a prioritized refactor plan — highest impact,
-lowest risk first — and explain the reasoning.
+code, and risky patterns. Propose a prioritized refactor plan, highest impact and
+lowest risk first, and explain the reasoning.
 
 Then refactor incrementally: keep behavior intact and verify with tests after each
 step. No big-bang rewrite. If you don't have a test protecting a change, write one

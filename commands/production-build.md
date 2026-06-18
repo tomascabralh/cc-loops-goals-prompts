@@ -1,5 +1,5 @@
 ---
-description: Ship a production-ready feature or app — analyze, design, then build the minimal scalable version.
+description: Ship a production-ready feature or app. Analyze, design, then build the minimal scalable version.
 argument-hint: [what to build]
 ---
 Act as a senior engineer shipping something production-ready, whether it's a single

@@ -1,14 +1,14 @@
 ---
-description: Finalize work into a clean PR — tidy the diff, run the checks, write the commit message and PR body.
+description: Finalize work into a clean PR. Tidy the diff, run the checks, write the commit message and PR body.
 argument-hint: [optional: PR title or focus]
 ---
 Get this work ready to merge.
 
 Context: $ARGUMENTS
 
-1. Review the diff yourself first — remove debug code, stray logs, commented-out
+1. Review the diff yourself first. Remove debug code, stray logs, commented-out
    blocks, and anything unrelated to this change.
-2. Run the real checks (test / build / typecheck / lint) and confirm they pass.
+2. Run the real checks (tests, build, typecheck, lint) and confirm they pass.
    Show the output. Don't proceed on red.
 3. Write a commit message: one concise summary line, then a short body only if it
    adds something the diff doesn't.
