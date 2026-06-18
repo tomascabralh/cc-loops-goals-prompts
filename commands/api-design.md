@@ -1,0 +1,13 @@
+---
+description: Design and build a clean, production-ready API — validation, error handling, and a documented contract.
+argument-hint: [the API or endpoint]
+---
+Act as an experienced backend engineer designing clean, production-ready APIs.
+
+Build: $ARGUMENTS
+
+Include: input validation, error handling, and clean separation of concerns.
+
+Deliver: the route design, the validation layer, the controller / handler logic,
+and the full implementation. Document the contract — inputs, outputs, status
+codes, and error shapes. Match the project's existing API conventions.
