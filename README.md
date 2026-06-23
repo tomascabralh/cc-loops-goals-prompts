@@ -33,7 +33,7 @@ Everything is mapped to how Claude Code actually runs:
 
 ```text
 /plugin marketplace add tomascabralh/cc-golden-set
-/plugin install cc-golden-set@cc-golden-set
+/plugin install cc-golden-set@tomascabralh
 ```
 
 Then type `/` and the commands show up. Pass the task inline, like
