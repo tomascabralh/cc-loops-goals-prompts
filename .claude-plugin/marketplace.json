@@ -1,7 +1,7 @@
 {
-  "name": "cc-golden-set",
+  "name": "tomascabralh",
   "owner": {
-    "name": "tomascabralh"
+    "name": "Tomás Cabral"
   },
   "description": "A golden set of Claude Code commands for driving coding work to a verified, green finish line in rounds.",
   "plugins": [
